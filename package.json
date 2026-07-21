@@ -1,9 +1,4 @@
-{
-  "name": "telegram-bot",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node src/index.js"
-  },
+
 {
   "project": "CIL Cohort 20 Telegram Bot",
   "version": "1.0.0",
