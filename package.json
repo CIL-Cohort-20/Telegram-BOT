@@ -4,6 +4,15 @@
   "scripts": {
     "start": "node src/index.js"
   },
+{
+  "project": "CIL Cohort 20 Telegram Bot",
+  "version": "1.0.0",
+  "language": "JavaScript",
+  "cloud": "Render",
+  "database": "Supabase",
+  "status": "Online"
+}
+  
   "dependencies": {
     "express": "^5.1.0"
   }
