@@ -1,4 +1,10 @@
-"scripts": {
-  "start": "node src/index.js",
-  "dev": "nodemon src/index.js"
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
