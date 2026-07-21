@@ -1,13 +1,4 @@
-
-{
-  "project": "CIL Cohort 20 Telegram Bot",
-  "version": "1.0.0",
-  "language": "JavaScript",
-  "cloud": "Render",
-  "database": "Supabase",
-  "status": "Online"
+"scripts": {
+  "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
 }
-  
-  "dependencies": {
-    "express": "^5.1.0"
-  }
